@@ -12,7 +12,7 @@ public class Login_Locators {
 	public static String login_button4="//button[text()='Logout']";
 	public static String login_button5="//button[text()='Logout']";
 	public static String login_button6="//button[text()='Logout']";
-
+	public static String login_button8="//button[text()='Logout']";
 	
 
 
