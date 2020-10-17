@@ -5,5 +5,7 @@ public class Login_Locators {
 	public static String username_TextField="//input[@name='username']";
 	public static String password_TextField="//input[@name='password']";
 	public static String login_button="//button[text()='Login']";
+
+	public static String login_button="//button[text()='Logout']";
 	
 }
